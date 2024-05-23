@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files\\AppDN\\AppDotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\repository\\borrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\repository\\borrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\interfaces\\iborrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\interfaces\\iborrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\dto\\borrowingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\dto\\borrowingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\dto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\dto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\migrations\\20240521095808_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\migrations\\20240521095808_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|c:\\program files\\appdn\\appdotnet\\appdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D652E45-6A5E-4FBB-9DFC-F2EF55888C39}|AppDotnet\\AppDotnet.csproj|solutionrelative:appdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "AppDotnet\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAI4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:33:00.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Interfaces\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Interfaces\\IMemberRepository.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Interfaces\\IMemberRepository.cs",
+              "RelativeToolTip": "AppDotnet\\Interfaces\\IMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:40:21.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowingController.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Controllers\\BorrowingController.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Controllers\\BorrowingController.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Controllers\\BorrowingController.cs",
+              "RelativeToolTip": "AppDotnet\\Controllers\\BorrowingController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:55:58.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "AppDotnet\\Repository\\MemberRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:28:44.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBorrowingRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Interfaces\\IBorrowingRepository.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Interfaces\\IBorrowingRepository.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Interfaces\\IBorrowingRepository.cs",
+              "RelativeToolTip": "AppDotnet\\Interfaces\\IBorrowingRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:48:38.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowingRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Repository\\BorrowingRepository.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Repository\\BorrowingRepository.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Repository\\BorrowingRepository.cs",
+              "RelativeToolTip": "AppDotnet\\Repository\\BorrowingRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:51:15.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Controllers\\BookController.cs",
+              "RelativeToolTip": "AppDotnet\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAIMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:23:28.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "AppDotnet\\Repository\\BookRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:20:11.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "AppDotnet\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:14:33.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowingDto.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Dto\\BorrowingDto.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Dto\\BorrowingDto.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Dto\\BorrowingDto.cs",
+              "RelativeToolTip": "AppDotnet\\Dto\\BorrowingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:51:12.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Dto\\BookDto.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Dto\\BookDto.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Dto\\BookDto.cs",
+              "RelativeToolTip": "AppDotnet\\Dto\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:50:56.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Interfaces\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Interfaces\\IGenreRepository.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Interfaces\\IGenreRepository.cs",
+              "RelativeToolTip": "AppDotnet\\Interfaces\\IGenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:17:54.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Dto\\MemberDto.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Dto\\MemberDto.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Dto\\MemberDto.cs",
+              "RelativeToolTip": "AppDotnet\\Dto\\MemberDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:50:26.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Dto\\GenreDto.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Dto\\GenreDto.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Dto\\GenreDto.cs",
+              "RelativeToolTip": "AppDotnet\\Dto\\GenreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:50:42.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "AppDotnet\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:22:50.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Program.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Program.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Program.cs",
+              "RelativeToolTip": "AppDotnet\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAD4vzMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:46:54.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Repository\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Repository\\GenreRepository.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Repository\\GenreRepository.cs",
+              "RelativeToolTip": "AppDotnet\\Repository\\GenreRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:19:49.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Models\\Borrowing.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Models\\Borrowing.cs",
+              "RelativeToolTip": "AppDotnet\\Models\\Borrowing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:56:44.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "AppDotnet\\Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:58:06.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Models\\Member.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Models\\Member.cs",
+              "RelativeToolTip": "AppDotnet\\Models\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:41:52.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Seed.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Seed.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Seed.cs",
+              "RelativeToolTip": "AppDotnet\\Seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:55:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Models\\Book.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Models\\Book.cs",
+              "RelativeToolTip": "AppDotnet\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:34:59.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Data\\DataContext.cs",
+              "RelativeToolTip": "AppDotnet\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:45:26.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Models\\Genre.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Models\\Genre.cs",
+              "RelativeToolTip": "AppDotnet\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:35:39.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240521095808_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Migrations\\20240521095808_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AppDotnet\\Migrations\\20240521095808_InitialCreate.cs",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\Migrations\\20240521095808_InitialCreate.cs",
+              "RelativeToolTip": "AppDotnet\\Migrations\\20240521095808_InitialCreate.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:03:46.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "AppDotnet\\appsettings.json",
+              "ToolTip": "C:\\Program Files\\AppDN\\AppDotnet\\AppDotnet\\appsettings.json",
+              "RelativeToolTip": "AppDotnet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T08:40:13.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
